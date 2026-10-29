@@ -138,7 +138,7 @@ graph LR
 </p>
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%" height="6" alt="divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2D95,50:A970FF,100:00E5FF&height=4" width="100%" alt="divider" />
 </p>
 
 <p align="center">
@@ -160,21 +160,6 @@ graph LR
 <p align="center"><i>🐍 Powered by <a href="https://github.com/Platane/snk">Platane/snk</a> · Auto-updates every 6 hours</i></p>
 
 ***
-
-## 📊 STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sivashankar875&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A970FF&text_color=8B949E" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivashankar875&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sivashankar875&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sivashankar875&bg_color=0D1117&color=58A6FF&line=A970FF&point=FFFFFF&area=true&hide_border=true" alt="Activity graph" width="100%" />
-</p>
 
 ## 🏆 ACHIEVEMENTS
 
