@@ -131,11 +131,33 @@ graph LR
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/sivashankar875/sivashankar875/pacman-output/pacman-contribution-graph.svg" width="100%" />
 </picture>
 
-<p align="center"><b>Snake is hungry too</b></p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sivashankar875/sivashankar875/output/github-snake-dark.svg" />
-  <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/sivashankar875/sivashankar875/output/github-snake.svg" width="100%" />
-</picture>
+<br/><br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&height=45&lines=%3E+contribution_snake;The+Snake+Eats.+The+Code+Ships.;Every+commit+%3D+XP+%E2%9A%A1" alt="contribution_snake" />
+</p>
+
+<p align="center">
+  <img src="assets/divider.svg" width="100%" height="6" alt="divider" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sivashankar875/sivashankar875/output/github-snake-cyber.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sivashankar875/sivashankar875/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/sivashankar875/sivashankar875/output/github-snake-cyber.svg" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LOW_XP-161b22?style=flat-square" />
+  <img src="https://img.shields.io/badge/-3b1f6e?style=flat-square" />
+  <img src="https://img.shields.io/badge/-6d3fc0?style=flat-square" />
+  <img src="https://img.shields.io/badge/-A970FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/MAX_XP-D8B4FF?style=flat-square" />
+</p>
+
+<p align="center"><i>🐍 Powered by <a href="https://github.com/Platane/snk">Platane/snk</a> · Auto-updates every 6 hours</i></p>
 
 ***
 
