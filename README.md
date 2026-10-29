@@ -127,11 +127,11 @@ graph LR
 
 <p align="center"><b>Pac-Man is eating my contributions</b></p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sivashankar875/sivashankar875/pacman-output/pacman-contribution-graph-dark.svg" />
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/sivashankar875/sivashankar875/pacman-output/pacman-contribution-graph.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sivashankar875/sivashankar875/output/pacman-contribution-graph-dark.svg" />
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/sivashankar875/sivashankar875/output/pacman-contribution-graph.svg" width="100%" />
 </picture>
 
-<br/><br/>
+<p align="center">&nbsp;</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&height=45&lines=%3E+contribution_snake;The+Snake+Eats.+The+Code+Ships.;Every+commit+%3D+XP+%E2%9A%A1" alt="contribution_snake" />
@@ -143,9 +143,9 @@ graph LR
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sivashankar875/sivashankar875/output/github-snake-cyber.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sivashankar875/sivashankar875/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/sivashankar875/sivashankar875/output/github-snake-cyber.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sivashankar875/sivashankar875/snake-output/github-snake-cyber.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sivashankar875/sivashankar875/snake-output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/sivashankar875/sivashankar875/snake-output/github-snake-cyber.svg" width="100%" />
   </picture>
 </p>
 
@@ -157,7 +157,12 @@ graph LR
   <img src="https://img.shields.io/badge/MAX_XP-D8B4FF?style=flat-square" />
 </p>
 
-<p align="center"><i>🐍 Powered by <a href="https://github.com/Platane/snk">Platane/snk</a> · Auto-updates every 6 hours</i></p>
+<p align="center">
+  <i>🐍 "The snake eats. The code ships."</i><br/>
+  <i>⚡ "Every commit = XP."</i>
+</p>
+
+<p align="center"><sub>Powered by <a href="https://github.com/Platane/snk">Platane/snk</a> and <a href="https://github.com/abozanona/pacman-contribution-graph">pacman-contribution-graph</a> · Auto-updates every 6 hours</sub></p>
 
 ***
 
