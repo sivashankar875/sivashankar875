@@ -166,6 +166,21 @@ graph LR
 
 ***
 
+## 📊 STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sivashankar875&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A970FF&text_color=8B949E" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivashankar875&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sivashankar875&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sivashankar875&bg_color=0D1117&color=58A6FF&line=A970FF&point=FFFFFF&area=true&hide_border=true" alt="Activity graph" width="100%" />
+</p>
+
 ## 🏆 ACHIEVEMENTS
 
 <p align="center">
